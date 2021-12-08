@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image:url(https://images.hdqwalls.com/wallpapers/thumb/beautiful-evening-landscape-minimal-8k-ag.jpg);
+  background-size: cover;
+  color: black;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 1;
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 1;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: black;
+  display: inline-block;
+  opacity: 0.7;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.signup {
+  background-color: #FF8243;
+}
+
+.facebook {
+  background-color: #FF8243;
+}
+
+.twitter {
+  background-color: #FF8243;
+}
